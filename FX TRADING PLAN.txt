@@ -9,3 +9,10 @@ RISK MANAGEMENT
 PAIRS TO FOCUS ON
 	EURUSD
 	GBPUSD
+ENTRY AND EXIT RULES
+	study closely, the H4 trend
+	mark correctly, the swing lows and highs
+	idebtify the poi and significant zones of liquidity
+	anticipate mitigation and sweep respectively
+	jump down to M15 to look for entries
+	and to M1 for extra confirmations and entries
