@@ -1,0 +1,11 @@
+TIME FRAME
+	H4 timeframe for major analysis and determination of bias
+	M15 timeframe for internal structural analysis and marking of POI
+	M1 timeframe for entry confirmations and entries
+RISK MANAGEMENT
+	maximum of 3 trades or positions a day
+	trading ends for a day after 2 consecutive losses
+	RRR should not exceed 1:4 (except there's high tendency of price sweeping lq)
+PAIRS TO FOCUS ON
+	EURUSD
+	GBPUSD
